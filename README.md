@@ -1,5 +1,4 @@
-<!--
-**Margarita13200/Margarita13200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Margarita13200/Margarita13200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Texte en gras
 # : un h1
@@ -13,8 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
 
 # Hello, c'est Margaux ! 👋
 
@@ -22,3 +20,4 @@ Here are some ideas to get you started:
 ## Qui suis-je ? 
 
 Développeuse web junior, je sors d'un Master Manager de Projet en Communication & Marketing.
+Passionnée par le codage, les nouvelles technologies...
