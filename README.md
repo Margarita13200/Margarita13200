@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Margarita13200.https://github.com/Margarita13200)
 
 </p>
-<div size='20px'> Merci de passer un jeter un oeil sur mon profil ! 😉 </div>
+<div size='20px'> Merci de passer jeter un oeil sur mon profil ! 😉 </div>
 
 <h2> Qui suis-je ?</h2>
   
