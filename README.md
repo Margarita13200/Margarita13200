@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 # Hello, c'est Margaux ! 👋
 
-
 ## Qui suis-je ? 
 
 Développeuse web junior, je sors d'un Master Manager de Projet en Communication & Marketing.
-Passionnée par le codage, les nouvelles technologies...
+Passionnée par le codage, les nouvelles technologies mais aussi...
