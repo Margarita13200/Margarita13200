@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ## Qui suis-je ? 
 
-✌️ Développeuse web junior, j'ai commencé mon parcours avec un Master Chef(fe) de Projet en Communication & Marketing. Créative dans l'âme, j'aime créer toutes sortes de supports via toutes sortes de logiciels graphiques.
-Passionnée par le codage et les nouvelles technologies, je me suis spécialisée dans le développement informatique, toujours à l'affut d'apprendre de nouvelles compétences ! 
+✌️ Développeuse web junior, j'ai commencé mon parcours avec un Master Chef(fe) de Projet en Communication & Marketing. Créative dans l'âme, j'aime inventer et imaginer toutes sortes de supports via toutes sortes de logiciels graphiques.
+Passionnée par le codage et les nouvelles technologies, je reste toujours à l'affut d'apprendre et de développer de nouvelles! 
 
-💕 Mis à part l'informatique, j'aime la musique (pratique du piano et participation à de nombreux concerts) 🎶 le sport 🏆 et voyager !!! ✈️🚀
+💕 J'aime la musique (pratique du piano et participation à de nombreux concerts) 🎶 le sport 🏆 et voyager !!! ✈️🚀
 
 👍 Des personnes m'inspirent...
 
