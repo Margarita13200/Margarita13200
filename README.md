@@ -33,7 +33,7 @@
 <h2> En cours... </h2>
   <img src="https://user-images.githubusercontent.com/118832298/206922375-79496f06-595d-4bb4-b2ef-91abd614a0b0.gif">
 
-  <p>Je travaille sur mon Portfolio et continue de découvrir davantage Javascript...</p>
+  <p>Je travaille sur mon Portfolio, continue de découvrir davantage Javascript et m'amuse avec PHP et MySQL...</p>
   
 <h2> Où suis-je ? </h2>
 <a href = 'https://www.github.com/https://github.com/Margarita13200'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
